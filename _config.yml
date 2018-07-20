@@ -1,7 +1,7 @@
 # Site settings
-title: THD Blog
+title: PersisThd
 SEOTitle: 檀华东的个人博客 | THD Blog
-header-img: /img/jiajiagive.jpg
+header-img: /img/post-bg-give1.jpg
 email: Tanhuadong@hotmail.com
 description: "Every failure is leading towards success."
 keyword: "THD, THD Blog, 檀华东的博客, tanhuadong, 檀华东, AI, Python, Music"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/tanhuadong/tanhuadong.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "爱生活，爱音乐！"
 sidebar-avatar: /img/JJlin.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
