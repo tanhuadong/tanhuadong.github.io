@@ -102,6 +102,10 @@ friends: [
         title: "TwistedWG",
         href: "http://www.twistedwg.com"
     }
+    {
+        title: "XingXL",
+        href: "https://xingxl.github.io"
+    }
     #,{
      #   title: "简书·BY",
       #  href: "http://www.jianshu.com/u/e71990ada2fd"
