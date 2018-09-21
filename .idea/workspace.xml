@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4af20754-0581-471b-a6cd-984710ef714a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-21-关于我和我的博客.md" afterPath="$PROJECT_DIR$/_posts/2018-07-21-关于我和我的博客.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-23-利用Pytorch玩转人工智能（一）.md" afterPath="$PROJECT_DIR$/_posts/2018-07-23-利用Pytorch玩转人工智能（一）.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
